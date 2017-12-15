@@ -2,7 +2,13 @@
 
 *a game about news cycles, vicious cycles, infinite cycles*
 
-**[PLAY ON ITCH.IO](https://ncase.itch.io/wbwwb)**
+# **[PLAY (العربية)](https://alexclay.itch.io/wbwwb-ar)** -- **[PLAY (ENGLISH)](https://ncase.itch.io/wbwwb)**
+
+لعبة من صنع  
+[Nicky Case](http://ncase.me/)
+
+الترجمة العربية  
+[Alex Clay](arabic.cool)
 
 ---
 
