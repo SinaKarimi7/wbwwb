@@ -5,10 +5,10 @@
 # **[PLAY (العربية)](https://alexclay.itch.io/wbwwb-ar)** -- **[PLAY (ENGLISH)](https://ncase.itch.io/wbwwb)**
 
 لعبة من صنع  
-[Nicky Case](http://ncase.me/)
+[Nicky Case - ncase.me](http://ncase.me/)
 
 الترجمة العربية  
-[Alex Clay](arabic.cool)
+[Alex Clay - ِarabic.cool](http://arabic.cool/)
 
 ---
 
