@@ -365,7 +365,7 @@ var textStrings_FA = {
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "زمان بازی: ۵ دقیقه" ,
-    "warning"            : "هشدار: این برنامه\n،شامل صحنه‌های خودستایی\n .بی ادبی و کشتار است \n هشدار داده باشم..." ,
+    "warning"            : "هشدار: این برنامه\n، شامل صحنه‌های خودستایی\n .بی ادبی و کشت و کشتار است \n هشدار داده باشم..." ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "نشانه بگیر و دکمه را فشار بده" ,
@@ -412,7 +412,7 @@ var textStrings_FA = {
     "toBeContinued"      : "(to be continued!)" ,
     
     // (quote0002.png)
-    "WBWWB"              : "ما تبدیل به چیزی می‌شویم که می‌بینیم" ,
+    "WBWWB"              : "ما همانی می‌شویم که تماشا می‌کنیم" ,
     "WSOTATOTSU"         : "ما ابزارهایمان را می‌سازیم و ابزارهایمان ما را." ,
     
     // (quote0003.png)
@@ -421,7 +421,6 @@ var textStrings_FA = {
     // (quote0004.png)
     "misatrributed"      : "(به اشتباه)" ,
 };
-
 
 var textStrings = textStrings_FA
 //var textStrings = textStrings_KR;
