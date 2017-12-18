@@ -25,11 +25,11 @@ function Scene_Post_Post_Credits(){
 
 	// _addButton
 	var isHovering = false;
-	var _addButton = function(x, labelFrame, callback){
+	var _addButton = function(x, y, labelFrame, callback){
 
 		var button = new PIXI.Container();
 		button.x = x;
-		button.y = 325;
+		button.y = y; //325;
 		cont.addChild(button);
 
 		var bg = MakeMovieClip("end_button");
@@ -60,14 +60,20 @@ function Scene_Post_Post_Credits(){
 		};
 
 	};
-	_addButton(250, 2, function(){
+	_addButton(250, 225, 2, function(){
 		window.open("http://ncase.me");
 	});
-	_addButton(480, 3, function(){
+	_addButton(480, 225, 3, function(){
 		window.open("https://www.patreon.com/ncase");
 	});
-	_addButton(710, 4, function(){
+	_addButton(710, 225, 4, function(){
 		Game.sceneManager.gotoScene("Quote");
+	});
+	_addButton(365, 325, 5, function(){
+		window.open("https://hamed.github.io/fa/categories/%D8%B4%D8%B1%D8%AD-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%DA%A9%D8%AA%D8%B4%D8%A7%D9%81/");
+	});
+	_addButton(605, 325, 6, function(){
+		window.open("https://ppng.ir/d/HagU");	
 	});
 
 	// _addSocialButton

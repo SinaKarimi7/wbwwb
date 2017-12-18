@@ -1,8 +1,8 @@
 @font-face {
-	font-family: 'Cairo';
+	font-family: 'terafik';
 	font-style: normal;
 	font-weight: 400;
-	src: url('Cairo-Regular.ttf') format('truetype');
+	src: url('terafikb.ttf') format('truetype');
 }
 
 html, body{
@@ -10,7 +10,7 @@ html, body{
 	height: 100%;
 }
 body{
-	font-family: 'Cairo';
+	font-family: 'terafik';
 	margin: 0;
 	background: #222;
 	position:relative;

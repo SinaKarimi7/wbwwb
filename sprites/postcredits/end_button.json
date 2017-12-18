@@ -39,6 +39,22 @@
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":207,"h":57},
 	"sourceSize": {"w":207,"h":57}
+},
+"end_button0005":
+{
+	"frame": {"x":0,"y":285,"w":207,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":207,"h":57},
+	"sourceSize": {"w":207,"h":57}
+},
+"end_button0006":
+{
+	"frame": {"x":0,"y":342,"w":207,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":207,"h":57},
+	"sourceSize": {"w":207,"h":57}
 }},
 "meta": {
 	"app": "Adobe Animate",

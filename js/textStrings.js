@@ -317,9 +317,9 @@ var textStrings_FA = {
     // Act 1
     "niceHat"              : "چه کلاه باحالی"                                          ,
     "outtaHere"            : "دل و روده اینجاست"                                ,
-    "getARoom"             : "بی‌حیاها، برید اتاق خالی پیدا کنید!"                                  ,
-    "notCoolAnymore"       : "کلاه از مد افتاده"                          ,
-    "tvOnTv"               : "یک تلویزیون ... توی یک تلویزیون!"                                        ,
+    "getARoom"             : "!بی‌حیاها! برید اتاق خالی پیدا کنید"                                  ,
+    "notCoolAnymore"       : "کلاه تکراری شده است"                          ,
+    "tvOnTv"               : "!یک تلویزیون ... توی یک تلویزیون"                                        ,
     "cricky"               : "یک جیرجیرک"                                        ,
     "tooManyCrickets"      : "یک عالمه جیرجیرک"                         ,
     "normalPeep"           : "یک آدم معمولی"                                    ,
@@ -329,15 +329,15 @@ var textStrings_FA = {
     // Act 2
     "crazySquareAttacks"   : "حمله مربع دیوانه"                                 ,
     "justMissed"           : "... لحظه از دست رفت"                                 ,
-    "somethingInteresting" : "(باید وقتی که یک کار جالب انجام می‌دهند عکس بگیری)" ,
-    "whoIsScreaming"       : "(باید عکس اونی رو بگیری که سرشون داد زد)"               ,
+    "somethingInteresting" : "(وقتی کار جالبی انجام می‌دهند عکس بگیر)" ,
+    "whoIsScreaming"       : "(عکس  کسی را که داد زد بگیر)"               ,
     "circleFearsSquares"   : "وحشت دایره‌ از مربع‌"                                  ,
     "whoScaresThem"        : "(باید وحشت زده‌ها هم توی عکس باشند)"         ,
     "areTheyScared"        : "(ya gotta catch 'em *being* scared by a square)"       , // not used
     "squaresSnubCircles"   : "مربع‌ به دایره اهانت کرد"                                  ,
     "areTheySnubbed"       : "(ya gotta catch 'em *while* snubbing a circle)"        , // not used
-    "everyoneHates"        : "همه از همه متنفر هستند!!!"                           ,
-    "almostEveryoneHates"  : "تقریباً همه از همه متنفر هستند ..."                     ,
+    "everyoneHates"        : "!!!همه از همه متنفر هستند"                           ,
+    "almostEveryoneHates"  : "... تقریباً همه از هم متنفر هستند"                     ,
     "squaresHateCircles"   : "نفرت مربع‌ از دایره‌"                                  ,
     "circlesHateSquares"   : "نفرت دایره‌ از مربع‌"                                  ,
     "areTheyYelling"       : "(باید وقتی که سر هم داد می‌زنند عکس بگیری)"              , // not used
@@ -348,13 +348,13 @@ var textStrings_FA = {
     // Act 3
     "ellipsis"             : ". . ."                                                 ,
     "coolNoMore"           : "کلاه دیگه جالب نیست، هنوز دوزاریت نیافتاده؟"           ,
-    "beScared"             : "بترسید. خشمگین باشید."                                  ,
+    "beScared"             : "!بترسید! خشمگین باشید"                                  ,
     
     // MANIFESTO
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
-       "صلح و دوستی برای هیچ کس جالب نیست.",
-       "صلح حوصله آدمها را سر می‌برد اما خشونت همه توجه‌ها را جلب می‌کند."    ,
+       ".صلح و دوستی برای هیچ کس جالب نیست",
+       ".صلح حوصله سر می‌برد اما خشونت مرکز توجه‌ است"    ,
        //"peace is boring. conflict gets clicks." ,
        "and every story needs a conflict, so..."  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
@@ -365,35 +365,35 @@ var textStrings_FA = {
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "زمان بازی: ۵ دقیقه" ,
-    "warning"            : "هشدار: این برنامه\n، شامل صحنه‌های خودستایی\n .بی ادبی و کشت و کشتار است \n هشدار داده باشم..." ,
+    "warning"            : "هشدار: این برنامه\n،شامل صحنه‌های خودستایی\n ،بی ادبی و بی عفتی \n .و کشت و کشتار است \n ... گفته باشم" ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "نشانه بگیر و دکمه را فشار بده" ,
     
     // (chyron3.png)
-    "chyronNothing"      : "عجب! هیچی نیست!" ,
+    "chyronNothing"      : "!عجب! هیچی نیست" ,
     
     // (credits0001.png)
     "createdBy"          : "خالق" ,
     "NickyCase"          : "Nicky Case",
 
     "translatedBy"       : "مترجم" ,
-    "hamed"              : "حامد سیدعلائی",
+    "translator"         : "حامد سیدعلائی\n",
 
-    "arabic"             : " باتشکر از مترجم نسخه عربی" ,
+    "arabic"             : "مترجم عربی" ,
     "AlexClay"           : "Alex Clay",
     
     // (credits0002.png)
-    "manyThanks"         : "با تشکر از کسانی که عیب یابی کردند:" ,
+    "manyThanks"         : ":با تشکر از کسانی که عیب یابی کردند" ,
     
     // (credits000[3,4,5,6].png)
-    "patreonSupporters"  : "و حامیان نیکی در پاترون:" ,
+    "patreonSupporters"  : ":و حامیان نیکی در پاترون" ,
     
     // (credits0007.png)
     "lastButNotLeast"    : "و دست آخر هم" ,
     
     // (credits0008.png)
-    "thankYouForPlaying" : "تشکر از شما که بازی کردید!" ,
+    "thankYouForPlaying" : "!ممنون که بازی کردی" ,
     
     // (preload_play.png)
     "playButton"         : "شروع" ,
@@ -405,7 +405,7 @@ var textStrings_FA = {
     "replayButton"       : "دوباره بازی کن" ,
     
     // (logo.png) Post Credits
-    "logoWBWWB"          : "درد را به اشتراک بگذار:" ,
+    "logoWBWWB"          : ":درد را به اشتراک بگذار" ,
     
     // (end_prototype.png)
     "endOfPrototype"     : "END OF PROTOTYPE" ,
@@ -413,7 +413,7 @@ var textStrings_FA = {
     
     // (quote0002.png)
     "WBWWB"              : "ما همانی می‌شویم که تماشا می‌کنیم" ,
-    "WSOTATOTSU"         : "ما ابزارهایمان را می‌سازیم و ابزارهایمان ما را." ,
+    "WSOTATOTSU"         : ".ما ابزارهایمان را می‌سازیم و ابزارهایمان ما را" ,
     
     // (quote0003.png)
     "MarshallMcLuhan"    : "مارشال مک‌لوهان" ,

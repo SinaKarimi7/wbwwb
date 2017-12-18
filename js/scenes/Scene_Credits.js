@@ -28,21 +28,49 @@ function Scene_Credits(){
 	}
     
     // add text
-    var createdByText = new PIXI.Text(textStrings["createdBy"] + "\n", {font: "46px Cairo", fill:"#FFFFFF", align: "left"});
+    var createdByText = new PIXI.Text(textStrings["createdBy"] + "\n", {font: "46px terafik", fill:"#FFFFFF", align: "left"});
     createdByText.anchor.x = 0.0;
     createdByText.anchor.y = 0.5;
-    createdByText.x = Game.width / 2 - 240;
-    createdByText.y = Game.height / 2 - 41;
+    createdByText.x = Game.width / 2 - 300;
+    createdByText.y = 100 //Game.height / 2 - 41;
     c[1].addChild(createdByText);
     
-    var authorText = new PIXI.Text(textStrings["NickyCase"], {font: "86px Cairo", fill:"#FFFFFF", align: "left"});
+    var authorText = new PIXI.Text(textStrings["NickyCase"], {font: "80px terafik", fill:"#FFFFFF", align: "left"});
     authorText.anchor.x = 0.0;
     authorText.anchor.y = 0.5;
-    authorText.x = Game.width / 2 - 240;
-    authorText.y = Game.height / 2 + 29;
+    authorText.x = Game.width / 2 - 300;
+    authorText.y = 150 //Game.height / 2 + 29;
     c[1].addChild(authorText);
+
+    var createdByText = new PIXI.Text(textStrings["translatedBy"] + "\n", {font: "30px terafik", fill:"#FFFFFF", align: "left"});
+    createdByText.anchor.x = 0.0;
+    createdByText.anchor.y = 0.5;
+    createdByText.x = Game.width / 2 - 300;
+    createdByText.y = 250 //Game.height / 2 - 41;
+    c[1].addChild(createdByText);
     
-    var playtestersText = new PIXI.Text(textStrings["manyThanks"] + "\n", {font: "44px Cairo", fill:"#FFFFFF", align: "right"});
+    var authorText = new PIXI.Text(textStrings["translator"], {font: "50px terafik", fill:"#FFFFFF", align: "left"});
+    authorText.anchor.x = 0.0;
+    authorText.anchor.y = 0.5;
+    authorText.x = Game.width / 2 - 300;
+    authorText.y = 300 //Game.height / 2 + 29;
+    c[1].addChild(authorText);
+
+    var createdByText = new PIXI.Text(textStrings["arabic"] + "\n", {font: "30px terafik", fill:"#FFFFFF", align: "left"});
+    createdByText.anchor.x = 0.0;
+    createdByText.anchor.y = 0.5;
+    createdByText.x = Game.width / 2 - 300;
+    createdByText.y = 400 //Game.height / 2 - 41;
+    c[1].addChild(createdByText);
+    
+    var authorText = new PIXI.Text(textStrings["AlexClay"], {font: "50px terafik", fill:"#FFFFFF", align: "left"});
+    authorText.anchor.x = 0.0;
+    authorText.anchor.y = 0.5;
+    authorText.x = Game.width / 2 - 300;
+    authorText.y = 450 //Game.height / 2 + 29;
+    c[1].addChild(authorText);
+            
+    var playtestersText = new PIXI.Text(textStrings["manyThanks"] + "\n", {font: "44px terafik", fill:"#FFFFFF", align: "right"});
     playtestersText.anchor.x = 1.0;
     playtestersText.anchor.y = 0.5;
     playtestersText.x = Game.width / 2 + 262;
@@ -53,39 +81,39 @@ function Scene_Credits(){
     // but I don't know PIXI enough to do this properly... /sl
 	// Alex: Nicky, hold my beer. I can top this hack.
     
-    var supportersText1 = new PIXI.Text(textStrings["patreonSupporters"] + "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nasdfasdfasdfsadfasdfasdfasdfasdf", {font: "40px Cairo", fill:"#FFFFFF", align: "left"});
+    var supportersText1 = new PIXI.Text(textStrings["patreonSupporters"] + "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nasdfasdfasdfsadfasdfasdfasdfasdf", {font: "40px terafik", fill:"#FFFFFF", align: "left"});
     supportersText1.anchor.x = 0.0;
     supportersText1.x = 145;
     supportersText1.y = 80;
     c[3].addChild(supportersText1);
     
-    var supportersText2 = new PIXI.Text(textStrings["patreonSupporters"] + "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nasdfasdfasdfsadfasdfasdfasdfasdf", {font: "40px Cairo", fill:"#FFFFFF", align: "left"});
+    var supportersText2 = new PIXI.Text(textStrings["patreonSupporters"] + "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nasdfasdfasdfsadfasdfasdfasdfasdf", {font: "40px terafik", fill:"#FFFFFF", align: "left"});
     supportersText2.anchor.x = 0.0;
     supportersText2.x = 145;
     supportersText2.y = 80;
     c[4].addChild(supportersText2);
     
-    var supportersText3 = new PIXI.Text(textStrings["patreonSupporters"] + "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nasdfasdfasdfsadfasdfasdfasdfasdf", {font: "40px Cairo", fill:"#FFFFFF", align: "left"});
+    var supportersText3 = new PIXI.Text(textStrings["patreonSupporters"] + "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nasdfasdfasdfsadfasdfasdfasdfasdf", {font: "40px terafik", fill:"#FFFFFF", align: "left"});
     supportersText3.anchor.x = 0.0;
     supportersText3.x = 145;
     supportersText3.y = 80;
     c[5].addChild(supportersText3);
     
-    var supportersText4 = new PIXI.Text(textStrings["patreonSupporters"] + "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nasdfasdfasdfsadfasdfasdfasdfasdf", {font: "40px Cairo", fill:"#FFFFFF", align: "left"});
+    var supportersText4 = new PIXI.Text(textStrings["patreonSupporters"] + "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nasdfasdfasdfsadfasdfasdfasdfasdf", {font: "40px terafik", fill:"#FFFFFF", align: "left"});
     supportersText4.anchor.x = 0.0;
     supportersText4.x = 145;
     supportersText4.y = 80;
     c[6].addChild(supportersText4);
     
     // thankYouText comes before finallyText so finallyText can be aligned based on thankYouText. /sl
-    var thankYouText = new PIXI.Text(textStrings["thankYouForPlaying"] + "\n   ", {font: "55px Cairo", fill:"#FFFFFF", align: "center"});
+    var thankYouText = new PIXI.Text(textStrings["thankYouForPlaying"] + "\n   ", {font: "55px terafik", fill:"#FFFFFF", align: "center"});
     thankYouText.anchor.x = 0.5;
     thankYouText.anchor.y = 0.5;
     thankYouText.x = Game.width / 2 + 10;
     thankYouText.y = Game.height / 2 + 25;
     c[8].addChild(thankYouText);
     
-    var finallyText = new PIXI.Text(textStrings["lastButNotLeast"] + "\n", {font: "37px Cairo", fill:"#FFFFFF", align: "left"});
+    var finallyText = new PIXI.Text(textStrings["lastButNotLeast"] + "\n", {font: "37px terafik", fill:"#FFFFFF", align: "left"});
     finallyText.anchor.x = 0.0;
     finallyText.anchor.y = 0.5;
     finallyText.x = thankYouText.getBounds().x + thankYouText.width - finallyText.width;
