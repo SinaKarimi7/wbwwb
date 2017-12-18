@@ -30,7 +30,8 @@ However, not *all* the code/art is mine. Credit's due where credit's due, so...
 - [shotgun](https://www.freesound.org/people/lensflare8642/sounds/145209/) (CC Zero)        
 - [bloody impact](https://www.freesound.org/people/Hybrid_V/sounds/319590/) (CC BY)        
 - [creepy warp sound](https://www.freesound.org/people/Andromadax24/sounds/184476/) (CC BY)        
-- [crowd screaming](https://www.freesound.org/people/MultiMax2121/sounds/156860/) (CC Zero)        
+- [crowd screaming](https://www.freesound.org/people/MultiMax2121/sounds/156860/) (CC Zero)
 
 **ART:**    
 - For the ending, I modified [this photo of a laptop](https://unsplash.com/photos/XyNi3rUEReE). (CC Zero)
+- [Nothin Parviz Tanavoli](https://www.theguardian.com/world/iran-blog/2015/feb/10/parviz-tanavoli-solo-us-exhibition-iranian-sculptor#img-1) ()

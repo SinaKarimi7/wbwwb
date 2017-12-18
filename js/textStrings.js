@@ -315,10 +315,10 @@ var textStrings_AR = {
 
 var textStrings_FA = {
     // Act 1
-    "niceHat"              : "چه کلاه باحالی"                                          ,
+    "niceHat"              : "چه کلاه باحالی",
     "outtaHere"            : "دل و روده اینجاست"                                ,
-    "getARoom"             : "!بی‌حیاها! برید اتاق خالی پیدا کنید"                                  ,
-    "notCoolAnymore"       : "کلاه تکراری شده است"                          ,
+    "getARoom"             : "!بی عفتی بیداد می‌کند"                                  ,
+    "notCoolAnymore"       : "کلاه از مد افتاد"                          ,
     "tvOnTv"               : "!یک تلویزیون ... توی یک تلویزیون"                                        ,
     "cricky"               : "یک جیرجیرک"                                        ,
     "tooManyCrickets"      : "یک عالمه جیرجیرک"                         ,
@@ -329,7 +329,7 @@ var textStrings_FA = {
     // Act 2
     "crazySquareAttacks"   : "حمله مربع دیوانه"                                 ,
     "justMissed"           : "... لحظه از دست رفت"                                 ,
-    "somethingInteresting" : "(وقتی کار جالبی انجام می‌دهند عکس بگیر)" ,
+    "somethingInteresting" : "(وقتی کار جالبی می‌کنند عکس بگیر)" ,
     "whoIsScreaming"       : "(عکس  کسی را که داد زد بگیر)"               ,
     "circleFearsSquares"   : "وحشت دایره‌ از مربع‌"                                  ,
     "whoScaresThem"        : "(باید وحشت زده‌ها هم توی عکس باشند)"         ,
@@ -347,18 +347,18 @@ var textStrings_FA = {
     
     // Act 3
     "ellipsis"             : ". . ."                                                 ,
-    "coolNoMore"           : "کلاه دیگه جالب نیست، هنوز دوزاریت نیافتاده؟"           ,
+    "coolNoMore"           : "کلاه مد نیست، چرا نمی‌فهمی؟"           ,
     "beScared"             : "!بترسید! خشمگین باشید"                                  ,
     
     // MANIFESTO
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
        ".صلح و دوستی برای هیچ کس جالب نیست",
-       ".صلح حوصله سر می‌برد اما خشونت مرکز توجه‌ است"    ,
+       ".صلح حوصله سر می‌برد اما خشونت توجه‌ می‌رباید"    ,
        //"peace is boring. conflict gets clicks." ,
        "and every story needs a conflict, so..."  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "به مخاطب چیزی بگو که دوست دارد."
+       ".به مخاطب چیزی بگو که دوست دارد"
     ] ,
     
     // -- Strings currently in graphics resources --
