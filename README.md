@@ -34,4 +34,4 @@ However, not *all* the code/art is mine. Credit's due where credit's due, so...
 
 **ART:**    
 - For the ending, I modified [this photo of a laptop](https://unsplash.com/photos/XyNi3rUEReE). (CC Zero)
-- [Nothin Parviz Tanavoli](https://www.theguardian.com/world/iran-blog/2015/feb/10/parviz-tanavoli-solo-us-exhibition-iranian-sculptor#img-1) ()
+- [Nothin Parviz Tanavoli](https://www.theguardian.com/world/iran-blog/2015/feb/10/parviz-tanavoli-solo-us-exhibition-iranian-sculptor#img-1)
