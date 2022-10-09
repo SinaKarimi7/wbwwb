@@ -73,7 +73,7 @@ function Scene_Post_Post_Credits(){
 		window.open("https://hamed.github.io/fa/categories/%D8%B4%D8%B1%D8%AD-%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%DA%A9%D8%AA%D8%B4%D8%A7%D9%81/");
 	});
 	_addButton(605, 325, 6, function(){
-		window.open("https://ppng.ir/d/HagU");	
+		window.open("https://www.paypal.com/paypalme/allaei");	
 	});
 
 	// _addSocialButton
