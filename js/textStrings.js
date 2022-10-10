@@ -356,7 +356,7 @@ var textStrings_FA = {
        ".صلح و دوستی برای هیچ کس جالب نیست",
        ".صلح حوصله سر می‌برد اما خشونت مرکز توجه‌ است"    ,
        //"peace is boring. conflict gets clicks." ,
-       "and every story needs a conflict, so..."  ,
+       "و هر داستانی نیاز به درگیری دارد. پس..."  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
        "به مخاطب چیزی بگو که دوست دارد."
     ] ,
